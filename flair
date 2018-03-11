@@ -1,0 +1,942 @@
+.flair {
+    background: url(%%championssprite%%) no-repeat -9999px;
+    border: 0;
+    padding: 0;
+}
+
+.flair-aatrox {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -5px;
+}
+
+.flair-ahri {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -40px;
+}
+
+.flair-akali {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -75px;
+}
+
+.flair-alistar {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -110px;
+}
+
+.flair-amumu {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -145px;
+}
+
+.flair-anivia {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -180px;
+}
+
+.flair-annie {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -215px;
+}
+
+.flair-ashe {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -250px;
+}
+
+// NOT OKAY
+
+.flair-aurelion-sol {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -285px;
+}
+
+.flair-bard {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -320px;
+}
+
+.flair-blitzcrank {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -355px;
+}
+
+.flair-brand {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -390px;
+}
+
+.flair-braum {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -425px;
+}
+
+.flair-caitlyn {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -460px;
+}
+
+.flair-cassiopeia {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -495px;
+}
+
+.flair-chogath {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -530px;
+}
+
+.flair-corki {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -565px;
+}
+
+.flair-darius {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -600px;
+}
+
+.flair-diana {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -635px;
+}
+
+.flair-draven {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -670px;
+}
+
+.flair-drmundo {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -705px;
+}
+
+.flair-ekko {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -740px;
+}
+
+.flair-elise {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -775px;
+}
+
+.flair-evelynn {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -810px;
+}
+
+.flair-ezreal {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -845px;
+}
+
+.flair-fiddlesticks {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -880px;
+}
+
+.flair-fiora {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -915px;
+}
+
+.flair-fizz {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -950px;
+}
+
+.flair-galio {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -985px;
+}
+
+.flair-gangplank {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1020px;
+}
+
+.flair-garen {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1055px;
+}
+
+.flair-gnar {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1090px;
+}
+
+.flair-gragas {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1125px;
+}
+
+.flair-graves {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1160px;
+}
+
+.flair-hecarim {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1195px;
+}
+
+.flair-heimerdinger {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1230px;
+}
+
+.flair-illaoi {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1265px;
+}
+
+.flair-irelia {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1300px;
+}
+
+.flair-janna {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1335px;
+}
+
+.flair-jarvaniv {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1370px;
+}
+
+.flair-jax {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1405px;
+}
+
+.flair-jayce {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1440px;
+}
+
+.flair-jhin {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1475px;
+}
+
+.flair-jinx {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1510px;
+}
+
+.flair-kalista {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1545px;
+}
+
+.flair-karma {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1580px;
+}
+
+.flair-karthus {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1615px;
+}
+
+.flair-kassadin {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1650px;
+}
+
+.flair-katarina {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1685px;
+}
+
+.flair-kayle {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1720px;
+}
+
+.flair-kennen {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1755px;
+}
+
+.flair-khazix {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1790px;
+}
+
+.flair-kindred {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1825px;
+}
+
+.flair-kogmaw {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1860px;
+}
+
+.flair-leblanc {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1895px;
+}
+
+.flair-leesin {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1930px;
+}
+
+.flair-leona {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -1965px;
+}
+
+.flair-lissandra {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2000px;
+}
+
+.flair-lucian {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2035px;
+}
+
+.flair-lulu {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2070px;
+}
+
+.flair-lux {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2105px;
+}
+
+.flair-malphite {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2140px;
+}
+
+.flair-malzahar {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2175px;
+}
+
+.flair-maokai {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2210px;
+}
+
+.flair-masteryi {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2245px;
+}
+
+.flair-missfortune {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2280px;
+}
+
+.flair-mordekaiser {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2315px;
+}
+
+.flair-morgana {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2350px;
+}
+
+.flair-nami {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2385px;
+}
+
+.flair-nasus {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2420px;
+}
+
+.flair-nautilus {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2455px;
+}
+
+.flair-nidalee {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2490px;
+}
+
+.flair-nocturne {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2525px;
+}
+
+.flair-nunu {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2560px;
+}
+
+.flair-olaf {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2595px;
+}
+
+.flair-orianna {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2630px;
+}
+
+.flair-pantheon {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2665px;
+}
+
+.flair-poppy {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2700px;
+}
+
+.flair-quinn {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2735px;
+}
+
+.flair-rammus {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2770px;
+}
+
+.flair-reksai {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2805px;
+}
+
+.flair-renekton {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2840px;
+}
+
+.flair-rengar {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2875px;
+}
+
+.flair-riven {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2910px;
+}
+
+.flair-rumble {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2945px;
+}
+
+.flair-ryze {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -2980px;
+}
+
+.flair-sejuani {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3015px;
+}
+
+.flair-shaco {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3050px;
+}
+
+.flair-shen {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3085px;
+}
+
+.flair-shyvana {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3120px;
+}
+
+.flair-singed {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3155px;
+}
+
+.flair-sion {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3190px;
+}
+
+.flair-sivir {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3225px;
+}
+
+.flair-skarner {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3260px;
+}
+
+.flair-sona {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3295px;
+}
+
+.flair-soraka {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3330px;
+}
+
+.flair-swain {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3365px;
+}
+
+.flair-syndra {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3400px;
+}
+
+.flair-tahmkench {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3435px;
+}
+
+.flair-talon {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3470px;
+}
+
+.flair-taric {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3505px;
+}
+
+.flair-teemo {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3540px;
+}
+
+.flair-thresh {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3575px;
+}
+
+.flair-tristana {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3610px;
+}
+
+.flair-trundle {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3645px;
+}
+
+.flair-tryndamere {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3680px;
+}
+
+.flair-twistedfate {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3715px;
+}
+
+.flair-twitch {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3750px;
+}
+
+.flair-udyr {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3785px;
+}
+
+.flair-urgot {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3820px;
+}
+
+.flair-varus {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3855px;
+}
+
+.flair-vayne {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3890px;
+}
+
+.flair-veigar {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3925px;
+}
+
+.flair-velkoz {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3960px;
+}
+
+.flair-vi {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -3995px;
+}
+
+.flair-viktor {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4030px;
+}
+
+.flair-vladimir {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4065px;
+}
+
+.flair-volibear {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4100px;
+}
+
+.flair-warwick {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4135px;
+}
+
+.flair-wukong {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4170px;
+}
+
+.flair-xerath {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4205px;
+}
+
+.flair-xinzhao {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4240px;
+}
+
+.flair-yasuo {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4275px;
+}
+
+.flair-yorick {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4310px;
+}
+
+.flair-zac {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4345px;
+}
+
+.flair-zed {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4380px;
+}
+
+.flair-ziggs {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4415px;
+}
+
+.flair-zilean {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4450px;
+}
+
+.flair-zyra {
+    width: 25px;
+    height: 25px;
+    background-position: -5px -4485px;
+}
+
+*/
+
+
+/* Subscriber/Online Counters */
+.titlebox .word {
+    display: none
+    }
+ .titlebox .number:after {
+    content: " subscribed";
+    }
+.titlebox .users-online span.number:after {
+    content: " currently online";
+    }
+
+
+/* Copy from here
+
+a[href="/r/AatroxMains"]{background-position:-5px -5px}
+a[href="/r/AhriMains"]{background-position:-5px -40px}
+a[href="/r/AkaliMains"]{background-position:-5px -75px}
+a[href="/r/Alistar"]{background-position:-5px -110px}
+a[href="/r/AmumuMains"]{background-position:-5px -145px}
+a[href="/r/AniviaMains"]{background-position:-5px -180px}
+a[href="/r/AnnieMains"]{background-position:-5px -215px}
+a[href="/r/AsheMains"]{background-position:-5px -250px}
+a[href="/r/Aurelion_Sol_Mains"]{background-position:-5px -285px}
+a[href="/r/AzirMains"]{background-position:-5px -320px}
+a[href="/r/BardMains"]{background-position:-5px -355px}
+a[href="/r/BlitzcrankMains"]{background-position:-5px -390px}
+a[href="/r/BrandMains"]{background-position:-5px -425px}
+a[href="/r/BraumMains"]{background-position:-5px -460px}
+a[href="/r/CaitlynMains"]{background-position:-5px -495px}
+a[href="/r/CamilleMains"]{background-position:-5px -530px}
+a[href="/r/CassiopeiaMains"]{background-position:-5px -565px}
+a[href="/r/ChoGathMains"]{background-position:-5px -600px}
+a[href="/r/CorkiMains"]{background-position:-5px -635px}
+a[href="/r/DariusMains"]{background-position:-5px -670px}
+a[href="/r/DianaMains"]{background-position:-5px -705px}
+a[href="/r/DrMundoMains"]{background-position:-5px -740px}
+a[href="/r/Draven"]{background-position:-5px -775px}
+a[href="/r/EkkoMains"]{background-position:-5px -810px}
+a[href="/r/EliseMains"]{background-position:-5px -845px}
+a[href="/r/EvelynnMains"]{background-position:-5px -880px}
+a[href="/r/EzrealMains"]{background-position:-5px -915px}
+a[href="/r/FiddlesticksMains"]{background-position:-5px -950px}
+a[href="/r/FioraMains"]{background-position:-5px -985px}
+a[href="/r/FizzMains"]{background-position:-5px -1020px}
+a[href="/r/GalioMains"]{background-position:-5px -1055px}
+a[href="/r/GangplankMains"]{background-position:-5px -1090px}
+a[href="/r/GarenMains"]{background-position:-5px -1125px}
+a[href="/r/GnarMains"]{background-position:-5px -1160px}
+a[href="/r/GragasMains"]{background-position:-5px -1195px}
+a[href="/r/GravesMains"]{background-position:-5px -1230px}
+a[href="/r/HecarimMains"]{background-position:-5px -1265px}
+a[href="/r/HeimerdingerMains"]{background-position:-5px -1300px}
+a[href="/r/Illaoi"]{background-position:-5px -1335px}
+a[href="/r/IreliaMains"]{background-position:-5px -1370px}
+a[href="/r/IvernMains"]{background-position:-5px -1405px}
+a[href="/r/Janna"]{background-position:-5px -1440px}
+a[href="/r/JarvanIVMains"]{background-position:-5px -1475px}
+a[href="/r/JaxMains"]{background-position:-5px -1510px}
+a[href="/r/JayceMains"]{background-position:-5px -1545px}
+a[href="/r/JhinMains"]{background-position:-5px -1580px}
+a[href="/r/LeagueofJinx"]{background-position:-5px -1615px}
+a[href="/r/KalistaMains"]{background-position:-5px -1650px}
+a[href="/r/KarmaMains"]{background-position:-5px -1685px}
+a[href="/r/KarthusMains"]{background-position:-5px -1720px}
+a[href="/r/KassadinMains"]{background-position:-5px -1755px}
+a[href="/r/KatarinaMains"]{background-position:-5px -1790px}
+a[href="/r/KayleMains"]{background-position:-5px -1825px}
+a[href="/r/KennenMains"]{background-position:-5px -1860px}
+a[href="/r/KhaZixMains"]{background-position:-5px -1895px}
+a[href="/r/Kindred"]{background-position:-5px -1930px}
+a[href="/r/KledMains"]{background-position:-5px -1965px}
+a[href="/r/Kog_Mains"]{background-position:-5px -2000px}
+a[href="/r/LeblancMains"]{background-position:-5px -2035px}
+a[href="/r/LeeSinMains"]{background-position:-5px -2070px}
+a[href="/r/LeonaMains"]{background-position:-5px -2105px}
+a[href="/r/LissandraMains"]{background-position:-5px -2140px}
+a[href="/r/LucianMains"]{background-position:-5px -2175px}
+a[href="/r/LuluMains"]{background-position:-5px -2210px}
+a[href="/r/Lux"]{background-position:-5px -2245px}
+a[href="/r/MalphiteMains"]{background-position:-5px -2280px}
+a[href="/r/MalzaharMains"]{background-position:-5px -2315px}
+a[href="/r/MaokaiMains"]{background-position:-5px -2350px}
+a[href="/r/MasterYiMains"]{background-position:-5px -2385px}
+a[href="/r/MissFortuneMains"]{background-position:-5px -2420px}
+a[href="/r/MordekaiserMains"]{background-position:-5px -2455px}
+a[href="/r/MorganaMains"]{background-position:-5px -2490px}
+a[href="/r/NamiMains"]{background-position:-5px -2525px}
+a[href="/r/NasusMains"]{background-position:-5px -2560px}
+a[href="/r/NautilusMains"]{background-position:-5px -2595px}
+a[href="/r/NidaleeMains"]{background-position:-5px -2630px}
+a[href="/r/NocturneMains"]{background-position:-5px -2665px}
+a[href="/r/NunuMains"]{background-position:-5px -2700px}
+a[href="/r/OlafMains"]{background-position:-5px -2735px}
+a[href="/r/OriannaMains"]{background-position:-5px -2770px}
+a[href="/r/PantheonMains"]{background-position:-5px -2805px}
+a[href="/r/PoppyMains"]{background-position:-5px -2840px}
+a[href="/r/QuinnMains"]{background-position:-5px -2875px}
+a[href="/r/RakanMains"]{background-position:-5px -2910px}
+a[href="/r/RammusMains"]{background-position:-5px -2945px}
+a[href="/r/RekSaiMains"]{background-position:-5px -2980px}
+a[href="/r/RenektonMains"]{background-position:-5px -3015px}
+a[href="/r/RengarMains"]{background-position:-5px -3050px}
+a[href="/r/RivenMains"]{background-position:-5px -3085px}
+a[href="/r/RumbleMains"]{background-position:-5px -3120px}
+a[href="/r/RyzeMains"]{background-position:-5px -3155px}
+a[href="/r/SejuaniMains"]{background-position:-5px -3190px}
+a[href="/r/ShacoMains"]{background-position:-5px -3225px}
+a[href="/r/Shen"]{background-position:-5px -3260px}
+a[href="/r/ShyvanaMains"]{background-position:-5px -3295px}
+a[href="/r/SingedMains"]{background-position:-5px -3330px}
+a[href="/r/DirtySionMains"]{background-position:-5px -3365px}
+a[href="/r/Sivir"]{background-position:-5px -3400px}
+a[href="/r/SkarnerMains"]{background-position:-5px -3435px}
+a[href="/r/SonaMains"]{background-position:-5px -3470px}
+a[href="/r/SorakaMains"]{background-position:-5px -3505px}
+a[href="/r/SwainMains"]{background-position:-5px -3540px}
+a[href="/r/SyndraMains"]{background-position:-5px -3575px}
+a[href="/r/TahmKenchMains"]{background-position:-5px -3610px}
+a[href="/r/TaliyahMains"]{background-position:-5px -3645px}
+a[href="/r/TalonMains"]{background-position:-5px -3680px}
+a[href="/r/TaricMains"]{background-position:-5px -3715px}
+a[href="/r/TeemoTalk"]{background-position:-5px -3750px}
+a[href="/r/ThreshMains"]{background-position:-5px -3785px}
+a[href="/r/TristanaMains"]{background-position:-5px -3820px}
+a[href="/r/TrundleMains"]{background-position:-5px -3855px}
+a[href="/r/TryndamereMains"]{background-position:-5px -3890px}
+a[href="/r/TwistedFateMains"]{background-position:-5px -3925px}
+a[href="/r/TwitchMains"]{background-position:-5px -3960px}
+a[href="/r/UdyrMains"]{background-position:-5px -3995px}
+a[href="/r/UrgotMains"]{background-position:-5px -4030px}
+a[href="/r/VarusMains"]{background-position:-5px -4065px}
+a[href="/r/VayneMains"]{background-position:-5px -4100px}
+a[href="/r/VeigarMains"]{background-position:-5px -4135px}
+a[href="/r/VelKoz"]{background-position:-5px -4170px}
+a[href="/r/ViMains"]{background-position:-5px -4205px}
+a[href="/r/ViktorMains"]{background-position:-5px -4240px}
+a[href="/r/VladimirMains"]{background-position:-5px -4275px}
+a[href="/r/VolibearMains"]{background-position:-5px -4310px}
+a[href="/r/WarwickMains"]{background-position:-5px -4345px}
+a[href="/r/WukongMains"]{background-position:-5px -4380px}
+a[href="/r/XayahMains"]{background-position:-5px -4415px}
+a[href="/r/XerathMains"]{background-position:-5px -4450px}
+a[href="/r/XinZhaoMains"]{background-position:-5px -4485px}
+a[href="/r/YasuoMains"]{background-position:-5px -4520px}
+a[href="/r/YorickMains"]{background-position:-5px -4555px}
+a[href="/r/TheSecretWeapon"]{background-position:-5px -4590px}
+a[href="/r/ZedMains"]{background-position:-5px -4625px}
+a[href="/r/ZiggsMains"]{background-position:-5px -4660px}
+a[href="/r/ZileanMains"]{background-position:-5px -4695px}
+a[href="/r/ZyraMains"]{background-position:-5px -4730px}
+a[href="/r/KaynMains"]{background-position:-5px -4765px}
+a[href="/r/ornnmains"]{background-position:-5px -4800px}
+a[href="/r/ZoeMains"]{background-position: -5px -4835px}
+a[href="/r/KaisaMains"]{background-position: -5px -4870px}
+
+
+----- */
