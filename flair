@@ -52,27 +52,25 @@
     background-position: -5px -250px;
 }
 
-// NOT OKAY
-
-.flair-aurelion-sol {
+.flair-aurelion_sol {
     width: 25px;
     height: 25px;
     background-position: -5px -285px;
 }
 
-.flair-bard {
+.flair-azir {
     width: 25px;
     height: 25px;
     background-position: -5px -320px;
 }
 
-.flair-blitzcrank {
+.flair-bard {
     width: 25px;
     height: 25px;
     background-position: -5px -355px;
 }
 
-.flair-brand {
+.flair-blitzcrank {
     width: 25px;
     height: 25px;
     background-position: -5px -390px;
@@ -84,35 +82,37 @@
     background-position: -5px -425px;
 }
 
-.flair-caitlyn {
+.flair-braum {
     width: 25px;
     height: 25px;
     background-position: -5px -460px;
 }
 
-.flair-cassiopeia {
+.flair-caitlyn {
     width: 25px;
     height: 25px;
     background-position: -5px -495px;
 }
 
-.flair-chogath {
+.flair-camille {
     width: 25px;
     height: 25px;
     background-position: -5px -530px;
 }
 
-.flair-corki {
+.flair-cassiopeia {
     width: 25px;
     height: 25px;
     background-position: -5px -565px;
 }
 
-.flair-darius {
+.flair-chogath {
     width: 25px;
     height: 25px;
     background-position: -5px -600px;
 }
+
+// NOT OKAY
 
 .flair-diana {
     width: 25px;
