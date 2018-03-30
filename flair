@@ -220,76 +220,79 @@
     background-position: -5px -1230px;
 }
 
-*/ ----------------
-// NOT OKAY 
--------------------*/
-
-
-.flair- {
+.flair-hecarim {
     width: 25px;
     height: 25px;
     background-position: -5px -1265px;
 }
 
-.flair- {
+.flair-heimerdinger {
     width: 25px;
     height: 25px;
     background-position: -5px -1300px;
 }
 
-.flair- {
+.flair-illaoi {
     width: 25px;
     height: 25px;
     background-position: -5px -1335px;
 }
 
-.flair- {
+.flair-irelia {
     width: 25px;
     height: 25px;
     background-position: -5px -1370px;
 }
 
-.flair- {
+.flair-ivern {
     width: 25px;
     height: 25px;
     background-position: -5px -1405px;
 }
 
-.flair- {
+.flair-janna {
     width: 25px;
     height: 25px;
     background-position: -5px -1440px;
 }
 
-.flair- {
+.flair-jarvaniv {
     width: 25px;
     height: 25px;
     background-position: -5px -1475px;
 }
 
-.flair- {
+.flair-jax {
     width: 25px;
     height: 25px;
     background-position: -5px -1510px;
 }
 
-.flair- {
+.flair-jayce {
     width: 25px;
     height: 25px;
     background-position: -5px -1545px;
 }
 
-.flair- {
+.flair-jhin {
     width: 25px;
     height: 25px;
     background-position: -5px -1580px;
 }
 
-.flair- {
+.flair-jinx {
     width: 25px;
     height: 25px;
     background-position: -5px -1615px;
 }
+
+
+*/ ----------------
+// NOT OKAY 
+-------------------*/
+
+
+
 
 .flair- {
     width: 25px;
