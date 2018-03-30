@@ -112,115 +112,118 @@
     background-position: -5px -600px;
 }
 
-// NOT OKAY
-
-.flair- {
+.flair-corki {
     width: 25px;
     height: 25px;
     background-position: -5px -635px;
 }
 
-.flair- {
+.flair-darius {
     width: 25px;
     height: 25px;
     background-position: -5px -670px;
 }
 
-.flair- {
+.flair-diana {
     width: 25px;
     height: 25px;
     background-position: -5px -705px;
 }
 
-.flair- {
+.flair-drmundo {
     width: 25px;
     height: 25px;
     background-position: -5px -740px;
 }
 
-.flair- {
+.flair-draven {
     width: 25px;
     height: 25px;
     background-position: -5px -775px;
 }
 
-.flair- {
+.flair-ekko {
     width: 25px;
     height: 25px;
     background-position: -5px -810px;
 }
 
-.flair- {
+.flair-elise {
     width: 25px;
     height: 25px;
     background-position: -5px -845px;
 }
 
-.flair- {
+.flair-evelynn {
     width: 25px;
     height: 25px;
     background-position: -5px -880px;
 }
 
-.flair- {
+.flair-ezreal {
     width: 25px;
     height: 25px;
     background-position: -5px -915px;
 }
 
-.flair- {
+.flair-fiddlesticks {
     width: 25px;
     height: 25px;
     background-position: -5px -950px;
 }
 
-.flair- {
+.flair-fiora {
     width: 25px;
     height: 25px;
     background-position: -5px -985px;
 }
 
-.flair- {
+.flair-fizz {
     width: 25px;
     height: 25px;
     background-position: -5px -1020px;
 }
 
-.flair-n {
+.flair-galio {
     width: 25px;
     height: 25px;
     background-position: -5px -1055px;
 }
 
-.flair- {
+.flair-gangplank {
     width: 25px;
     height: 25px;
     background-position: -5px -1090px;
 }
 
-.flair- {
+.flair-garen {
     width: 25px;
     height: 25px;
     background-position: -5px -1125px;
 }
 
-.flair- {
+.flair-gnar {
     width: 25px;
     height: 25px;
     background-position: -5px -1160px;
 }
 
-.flair- {
+.flair-gragas {
     width: 25px;
     height: 25px;
     background-position: -5px -1195px;
 }
 
-.flair- {
+.flair-graves {
     width: 25px;
     height: 25px;
     background-position: -5px -1230px;
 }
+
+*/ ----------------
+// NOT OKAY 
+-------------------*/
+
 
 .flair- {
     width: 25px;
